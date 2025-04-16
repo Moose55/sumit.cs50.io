@@ -1,1 +1,1 @@
-# sumit.cs50.io
+lesson 1
